@@ -1,5 +1,8 @@
 # React tutorial using Create React app
-Tutorial from unknown source, but the project is located at [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
+Tutorial from unknown source, but the code is available below. 
+
+## Code 
+- [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
 
 ## NOTE
 This is an old project and just keeping it here for posterity purposes.
